@@ -1,0 +1,21 @@
+id,rating,movie_title,certified_fresh
+1,9.0,Interstellar,True
+2,8.5,Fast and the Furious,True
+3,7.8,Jurassic Park,False
+4,9.5,The Godfather,True
+5,6.9,Random Movie,False
+6,8.9,Inception,True
+7,7.2,Another Movie,False
+8,9.1,The Dark Knight,True
+9,8.0,Toy Story,False
+10,9.3,Pulp Fiction,True
+11,8.7,Gladiator,True
+12,6.5,Boring Movie,False
+13,9.2,The Matrix,True
+14,7.0,Average Film,False
+15,8.8,Forrest Gump,True
+16,6.8,Unknown Indie,False
+17,9.6,The Shawshank Redemption,True
+18,7.4,Some Sequel,False
+19,8.6,Avengers Endgame,True
+20,6.3,Low Budget Film,False
