@@ -1,2 +1,5 @@
 # python-challenge-movies
-Python Challeng
+Python Challenge
+
+![Alt text](/Home-assignment.png "Home assignment") 
+
